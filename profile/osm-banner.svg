@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="236" viewBox="0 0 440 236" role="img" aria-label="OSM — OpenSkill.md, the npm for AI skills">
+  <!-- Catppuccin Mocha: base #1e1e2e, mauve #cba6f7, surface2 #585b70, text #cdd6f4.
+       Line spacing is 0.92em so the block glyphs connect like terminal cells. -->
+  <rect width="440" height="236" rx="12" fill="#1e1e2e"/>
+  <g font-family="Menlo, 'DejaVu Sans Mono', 'Cascadia Mono', Consolas, monospace" font-size="20" fill="#cba6f7" text-anchor="middle" xml:space="preserve">
+    <text x="220" y="52"> ██████╗ ███████╗███╗   ███╗</text>
+    <text x="220" y="70.5">██╔═══██╗██╔════╝████╗ ████║</text>
+    <text x="220" y="89">██║   ██║███████╗██╔████╔██║</text>
+    <text x="220" y="107.5">██║   ██║╚════██║██║╚██╔╝██║</text>
+    <text x="220" y="126">╚██████╔╝███████║██║ ╚═╝ ██║</text>
+    <text x="220" y="144.5"> ╚═════╝ ╚══════╝╚═╝     ╚═╝</text>
+  </g>
+  <line x1="76" y1="172" x2="364" y2="172" stroke="#585b70" stroke-width="1.5"/>
+  <text x="220" y="206" font-family="Menlo, 'DejaVu Sans Mono', 'Cascadia Mono', Consolas, monospace" font-size="16" font-weight="bold" fill="#cdd6f4" text-anchor="middle">OpenSkill.md — the npm for AI skills</text>
+</svg>
