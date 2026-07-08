@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="osm-banner.png" alt="OSM — OpenSkill.md, the npm for AI skills" width="440">
+  <img src="osm-banner.png" alt="OSM — OpenSkill.md, the npm for AI agent capabilities" width="440">
 </p>
 
-<h3 align="center">The npm for AI skills</h3>
+<h3 align="center">The npm for AI agent capabilities</h3>
 
-<p align="center">Search, install, score, and publish skills, blueprints, and MCP servers for AI agents.</p>
+<p align="center">Search, install, score, and publish AI agent capabilities — skills, blueprints, MCP servers, and plugins.</p>
 
 <p align="center">
   <a href="https://openskill.md">openskill.md</a> ·
